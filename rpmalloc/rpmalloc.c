@@ -23,6 +23,8 @@
 #include <stdint.h>
 #include <stdatomic.h>
 
+#define MYTEST 0
+
 #if defined(__clang__)
 #pragma clang diagnostic ignored "-Wunused-macros"
 #pragma clang diagnostic ignored "-Wunused-function"
