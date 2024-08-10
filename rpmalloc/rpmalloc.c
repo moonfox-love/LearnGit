@@ -24,7 +24,7 @@
 #include <stdatomic.h>
 
 #define MYTEST 0
-#define MYTESTTT 2
+#define MYTESTTT 2  // 这是dev2的修改
 
 #if defined(__clang__)
 #pragma clang diagnostic ignored "-Wunused-macros"
