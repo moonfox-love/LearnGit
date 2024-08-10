@@ -23,6 +23,8 @@
 #include <stdint.h>
 #include <stdatomic.h>
 
+#define MYTESTTT 2
+
 #if defined(__clang__)
 #pragma clang diagnostic ignored "-Wunused-macros"
 #pragma clang diagnostic ignored "-Wunused-function"
